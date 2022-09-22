@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Xdii42M+Kh+dWNRRt0ZCrkQQqouVg54AhIM6B1873S0ogJZJ71CWUJDdOghJmMFYiPnAYol84pB+gF9rwIbPqA==",
+  "dgSpecHash": "/1SsqNJQXmApQQxbKyEyK5V6c/oF2+qKbljh8h+C+0/gA77L8u8vNFYopSHKdaHEd6MIenhuY7KZO+wIqufO4Q==",
   "success": true,
-  "projectFilePath": "/home/littlegeeko/Desktop/Coisas/cod3r/CursoCSharp/CursoCSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/ly/Desktop/Coisas/cod3r/CursoCSharp/CursoCSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/ly/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
