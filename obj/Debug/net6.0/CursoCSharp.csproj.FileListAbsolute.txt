@@ -28,3 +28,16 @@
 /home/ly/Desktop/Coisas/cod3r/CursoCSharp/obj/Debug/net6.0/ref/CursoCSharp.dll
 /home/ly/Desktop/Coisas/cod3r/CursoCSharp/obj/Debug/net6.0/CursoCSharp.pdb
 /home/ly/Desktop/Coisas/cod3r/CursoCSharp/obj/Debug/net6.0/CursoCSharp.genruntimeconfig.cache
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Encapsulamento.dll
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/bin/Debug/net6.0/Encapsulamento.pdb
+/home/ly/Desktop/Coisas/cod3r/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.CopyComplete
