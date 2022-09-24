@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pjeBA5CNUK6CmAQkB+Hx6CdKKahLqecUmheLmiYMEHawWO2efdLDs2arzZKe+cyP2ZBnacmH7VGglfjsF/Mm7Q==",
+  "success": true,
+  "projectFilePath": "/home/ly/Desktop/Coisas/cod3r/Encapsulamento/Encapsulamento.csproj",
+  "expectedPackageFiles": [
+    "/home/ly/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

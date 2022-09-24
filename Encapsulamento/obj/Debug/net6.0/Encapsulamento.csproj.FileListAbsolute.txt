@@ -1,0 +1,12 @@
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/bin/Debug/net6.0/Encapsulamento.deps.json
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/bin/Debug/net6.0/Encapsulamento.dll
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/bin/Debug/net6.0/ref/Encapsulamento.dll
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/bin/Debug/net6.0/Encapsulamento.pdb
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/obj/Debug/net6.0/Encapsulamento.csproj.AssemblyReference.cache
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/obj/Debug/net6.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/obj/Debug/net6.0/Encapsulamento.AssemblyInfoInputs.cache
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/obj/Debug/net6.0/Encapsulamento.AssemblyInfo.cs
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/obj/Debug/net6.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/obj/Debug/net6.0/Encapsulamento.dll
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/obj/Debug/net6.0/ref/Encapsulamento.dll
+/home/ly/Desktop/Coisas/cod3r/Encapsulamento/obj/Debug/net6.0/Encapsulamento.pdb
